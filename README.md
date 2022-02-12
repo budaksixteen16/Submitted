@@ -17,7 +17,8 @@
 
   </head>
 
-  <body<script>
+  <body>
+    <script>
 
 document.write("<h1 class='Font'>Terima kasih sebab awak dah isi borang ni!</h1>");
 
